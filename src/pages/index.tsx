@@ -76,6 +76,7 @@ export default function Home({ products, quantityOfProducts, ...props }: HomePro
           width={50} />}
 
         {!loading && (page < totalPage) && <ScrollInfinit updatePage={updatePage} />}
+
       </div>
 
     </div >
@@ -85,7 +86,7 @@ export default function Home({ products, quantityOfProducts, ...props }: HomePro
 export const getStaticProps: GetStaticProps = async () => {
   const response = await api.get("products", {
     params: {
-      _limit: 3,
+      _limit: 1,
       _page: 1,
       _sort: 'published_at',
       _order: 'desc',
@@ -99,7 +100,7 @@ export const getStaticProps: GetStaticProps = async () => {
     props: {
       products: response.data,
       quantityOfProducts,
-      limit: 3,
+      limit: 1,
       page: 1,
     },
     revalidate: 60,
