@@ -7,6 +7,15 @@
   height: 100px;
 
   background-color: #28262E;
-
+  color: #FFF;
+ 
   margin-bottom: 5rem;
+}
+
+@media screen and (prefers-color-scheme: light) {
+  .container{
+    background: rgba(#F4EDE8, 0.3);
+    color:#28262E;
+  }
+ 
 }
