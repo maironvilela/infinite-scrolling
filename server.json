@@ -1,0 +1,123 @@
+{
+  "products": [
+    {
+      "id": "50daa613-f091-49f1-8f98-bd75612a2aae",
+      "description": "Ração Premier Raças Específicas Golden Retriever para Cães Adultos",
+      "price": "R$199.90",
+      "weight ": "12kg",
+      "img": "https://staticpetz.stoom.com.br/fotos/1550247979313_mini.jpg"
+    },
+    {
+      "id": "d5c9418b-9203-4589-bb9a-e37e51f1d59d",
+      "description": "Ração Royal Canin Maxi - Cães Adultos",
+      "price": "R$239.90",
+      "weight ": "15kg",
+      "img": "https://staticpetz.stoom.com.br/fotos/1574869316149_mini.jpg"
+    },
+    {
+      "id": "81644632-119d-42ff-af73-843d6743461f",
+      "description": "Ração Royal Canin Golden Retriever - Cães Adultos",
+      "price": "R$239.90",
+      "weight ": "12kg",
+      "img": "https://staticpetz.stoom.com.br/fotos/1574879049424_mini.jpg"
+    },
+    {
+      "id": "0cae9f6c-0103-4f45-bedb-2f3a3cfd6f12",
+      "description": "Ração Premier Fórmula para Cães Adultos de Raças Grandes Sabor Frango Light",
+      "price": "R$425.90",
+      "weight ": "15kg",
+      "img": "https://staticpetz.stoom.com.br/fotos/1588017617225_mini.jpg"
+    },
+    {
+      "id": "3265a353-1224-4a5f-be42-25fc604233s",
+      "description": "Ração Guabi Natural Light para Cães Adultos de Porte Mini e Pequeno Sabor Peru e Aveia",
+      "price": "R$126.90",
+      "weight ": "3kg",
+      "img": "https://staticpetz.stoom.com.br/fotos/1620938485018_mini.jpg"
+    },
+    {
+      "id": "3265a353-1224-4a5f-be42-25fc604592c4",
+      "description": "Ração Farmina N&D Ancestral Selection para Cães Adultos de Raças Médias Sabor Carne",
+      "price": "R$369.90",
+      "weight ": "15kg",
+      "img": "https://staticpetz.stoom.com.br/fotos/1568206767219_mini.jpg"
+    },
+    {
+      "id": "f8bc107c-67ea-45ce-beb3-8d1b319dc5d5",
+      "description": "Ração Farmina N&D Ancestral Selection para Cães Adultos de Raças Médias Sabor Carne",
+      "price": "R$236.90",
+      "weight ": "15kg",
+      "img": "https://staticpetz.stoom.com.br/fotos/10002320000061-1_mini.jpg"
+    },
+    {
+      "id": "06384976-138e-4a14-be46-43daf7f040bb",
+      "description": "Ração Guabi Natural Light para Cães Adultos de Porte Médio e Grande Sabor Peru e Aveia",
+      "price": "R$212,99",
+      "weight ": "12Kg",
+      "img": "https://staticpetz.stoom.com.br/fotos/1620917747350_mini.jpg"
+    },
+    {
+      "id": "a2e2dc8d-e001-4168-930e-871ccb18ccab",
+      "description": "Ração Guabi Natural Grain Free para Cães Adultos de Porte Médio Sabor Frango e Lentilha",
+      "price": "R$312,36",
+      "weight ": "12Kg",
+      "img": "https://staticpetz.stoom.com.br/fotos/1620938638777_mini.jpg"
+    },
+    {
+      "id": "eb75396e-8985-4884-b959-641d37e52035",
+      "description": "Ração Hills Science Diet para Cães Adultos de Grande Porte Sabor Frango 12kg",
+      "price": "R$279,36",
+      "weight ": "12Kg",
+      "img": "https://staticpetz.stoom.com.br/fotos/1613058542544_mini.jpg"
+    },
+    {
+      "id": "5739fcb6-236a-48c8-88e4-1d14f6c99e6e",
+      "description": "Ração Biofresh para Cães Castrados de Raças Médias",
+      "price": "R$185,36",
+      "weight ": "12Kg",
+      "img": "https://staticpetz.stoom.com.br/fotos/1606312125984_mini.jpg"
+    },
+    {
+      "id": "9bf90977-09d1-46ba-b2ee-c383c9450e3c",
+      "description": "Ração Nestlé Purina ProPlan para Cães Adultos Raças Pequenas",
+      "price": "R$65,99",
+      "weight ": "1Kg",
+      "img": "https://staticpetz.stoom.com.br/fotos/1601640313360_mini.jpg"
+    },
+    {
+      "id": "0b22548e-4647-42f4-9a68-9fbbbdb47b63",
+      "description": "Ração Fórmula Natural Freshmeat para Cães Adultos de Pequeno Porte",
+      "price": "R$265,99",
+      "weight ": "10Kg",
+      "img": "https://staticpetz.stoom.com.br/fotos/1578573997985_mini.jpg"
+    },
+    {
+      "id": "2febeb7d-3b5a-47a2-a8e7-d2e7597d7310",
+      "description": "Ração Equilíbrio para Cães Adultos de Raças Grandes",
+      "price": "R$369,99",
+      "weight ": "15Kg",
+      "img": "https://staticpetz.stoom.com.br/fotos/1462545742490_mini.jpg"
+    },
+    {
+      "id": "2febeb7d-3b5a-47a2-a8e7-d2e7597d7311",
+      "description": "Ração Equilíbrio para Cães Adultos de Raças Grandes",
+      "price": "R$369,99",
+      "weight ": "15Kg",
+      "img": "https://staticpetz.stoom.com.br/fotos/1462545978393_mini.jpg"
+    },
+    {
+      "id": "efb02ace-4cc6-40da-b366-b7619ffa683b",
+      "description": "Ração Nestlé Purina ProPlan Para Cães Adultos com Pele Sensível",
+      "price": "R$110,99",
+      "weight ": "3Kg",
+      "img": "https://staticpetz.stoom.com.br/fotos/1605632375918_mini.jpg"
+    },
+    {
+      "id": "9a21551b-5034-4d9a-a375-0749da92fbac",
+      "description": "Ração Special Dog Prime para Cães Adultos de Raças Grandes",
+      "price": "R$110,99",
+      "weight ": "3Kg",
+      "img": "https://staticpetz.stoom.com.br/fotos/1592592173364_mini.jpg"
+    }
+  ]
+}
